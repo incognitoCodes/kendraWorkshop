@@ -1,0 +1,4 @@
+_question,_answer,_source_uri
+Which AWS service has 11 nines of durability,Amazon S3,https://aws.amazon.com/s3/
+What is AWS Well-architected framework,The AWS Well-Architected Framework describes key concepts design principles and architectural best practices for designing and running workloads in the cloud. By answering a few foundational questions learn how well your architecture aligns with cloud best practices and gain guidance for making improvements,https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html
+In what regions is Amazon Kendra available,Amazon Kendra is now available in 7 regions globally. US East (N. Virginia) US East (Ohio) US West (Oregon) Europe (Ireland) Asia Pacific (Singapore) Asia Pacific (Sydney) and Canada (Central).,https://docs.aws.amazon.com/general/latest/gr/kendra.html
